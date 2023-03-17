@@ -1,10 +1,13 @@
 # Simple Storage web3.js, typescript, react, remix
 
-## Not connected
+## Smart Contract
+https://mumbai.polygonscan.com/address/0xF2088390C8f68f7Aa130413da46061A86585A93E
+
+### Not connected
 ![image](https://user-images.githubusercontent.com/74890572/225840377-a0f68252-eeec-49f6-9f60-343722a38850.png)
 
-## Connected
+### Connected
 ![image](https://user-images.githubusercontent.com/74890572/225840693-8063af6b-ac66-4ca3-9142-15abaae736cc.png)
 
-## Write Contract
+### Write Contract
 ![image](https://user-images.githubusercontent.com/74890572/225841167-54442872-a779-4c11-b9cc-f9dec04264fb.png)
